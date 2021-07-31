@@ -8,10 +8,13 @@
 - 🥅 2020 Goals: Learn JS, Build Website
 
 ---
+### All
+---
 
 ### Add something to my playlists: 🎧
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Youtube_Music_icon.svg/240px-Youtube_Music_icon.svg.png" width="100" />](https://music.youtube.com/playlist?list=PLsi7NgyWLhZTjE3iL2DlulV_62KPsVoKP&jct=5Md2vu19PwSs_zn4feRxQ6fSg6NeyQ)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1200px-Spotify_logo_without_text.svg.png" width="100 />](https://spotify.com)
 
 ---
 
