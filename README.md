@@ -25,9 +25,11 @@
 <br />
 
 ---
-
-### 🖌️ My Projects:
-
+<details>
+  <summary>🖌️ My Projects:</summary>
+  
+  - Hej
+</details
 
 
 ---
