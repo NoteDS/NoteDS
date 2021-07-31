@@ -14,8 +14,8 @@
 <br />
 [<img src="http://tamiru.pl/NoteDS/assets/youtube.png" width="100" />](https://www.youtube.com/channel/UCxlKbyCzPRveAvYRvs_bcYQ)
 <br />
-[<img src="" width="30" />]()
-
+[<img src="http://tamiru.pl/NoteDS/assets/spotify.png" width="100" />](https://spotify.com)
+<br />
 ---
 
 ### Add something to my playlists: 🎧
