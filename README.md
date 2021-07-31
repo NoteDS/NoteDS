@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-[<img width="200" src="http://tamiru.pl/NoteDS/assets/donate.png" />]() 
-[<img width="200" src="http://tamiru.pl/NoteDS/assets/website.png" />]() 
+[<img width="130" src="http://tamiru.pl/NoteDS/assets/donate.png" />]() 
+[<img width="130" src="http://tamiru.pl/NoteDS/assets/website.png" />]() 
 
 ## About me (i think)!
 
