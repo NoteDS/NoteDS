@@ -1,20 +1,17 @@
 ### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
 
-[<button>Hej</button>]
-
 ## About me!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🔭 I'm only 13
+- 🌱 I’m currently learning JavaScript
+- 👯 I collaborate with DetektywNaczos, Kubabek123 and more...
+- 🥅 2020 Goals: Learn JS, Build Website
 
 ---
 
 ### Add something to my playlists: 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Youtube_Music_icon.svg/240px-Youtube_Music_icon.svg.png" width="350" />](https://music.youtube.com/playlist?list=PLsi7NgyWLhZTjE3iL2DlulV_62KPsVoKP&jct=5Md2vu19PwSs_zn4feRxQ6fSg6NeyQ)
 
 ---
 
