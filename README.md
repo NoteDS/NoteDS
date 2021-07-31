@@ -27,11 +27,15 @@
 ### 🖌️ My Projects:
 <details>
   <summary>Websites:</summary>
-• Tamiru.pl
-• ErrorCraft.pl
-• Naczos.pl
-• Shortnly.xyz
-• gameon.gg
+  • Tamiru.pl
+  <br />
+  • ErrorCraft.pl
+  <br />
+  • Naczos.pl
+  <br />
+  • Shortnly.xyz
+  <br />
+  • gameon.gg
 </details>
 <details>
   <summary>Apps:</summary>
