@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-[<img width="130" src="http://tamiru.pl/NoteDS/assets/donate.png" />]() 
-[<img width="130" src="http://tamiru.pl/NoteDS/assets/website.png" />]() 
+[<img width="130" src="http://tamiru.pl/NoteDS/assets/website.png" />](http://errorcraft.pl)
+[<img width="130" src="http://tamiru.pl/NoteDS/assets/donate.png" />]()  
 
 ## About me (i think)!
 
@@ -20,9 +20,10 @@
 
 ---
 
-## Add something to my PlayList on YTmusic🎧
+## Add something to my PlayList 🎧
 
-[<img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Youtube_Music_icon.svg/240px-Youtube_Music_icon.svg.png" width="350" />](https://music.youtube.com/playlist?list=PLsi7NgyWLhZTjE3iL2DlulV_62KPsVoKP&jct=-va4htsJa11G89z_Nry9v-eISgNHjw)
+[<img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Youtube_Music_icon.svg/240px-Youtube_Music_icon.svg.png" />](https://music.youtube.com/playlist?list=PLsi7NgyWLhZTjE3iL2DlulV_62KPsVoKP&jct=-va4htsJa11G89z_Nry9v-eISgNHjw)
+[<img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1200px-Spotify_logo_without_text.svg.png"/>](https://spotify.pl)
 
 ---
 
