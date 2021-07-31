@@ -49,7 +49,7 @@ I ADD THIS LATER
   <summary>:cookie: Naczos.pl</summary>
 
   <br />
-  [Naczos.pl](https://naczos.pl)
+  [Naczos.pl][naczos]
   <br />
   Source: N/A
   
@@ -58,3 +58,5 @@ I ADD THIS LATER
 
 
 [website]: LINK
+[naczos]: https://naczos.pl
+[tamiru]: http://tamiru.pl
