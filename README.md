@@ -28,23 +28,20 @@
 <details>
   <summary>🖌️ My Projects:</summary>
   
-  # Websites
+  #### Websites
   - Tamiru.pl
   - ErrorCraft.pl
   - Naczos.pl
   - Shortnly.xyz
   - gameon.gg
   
-  <br />
-  # Apps
+  #### Apps
   - N/A
   
-  <br />
-  # Games
+  #### Games
   - N/A
   
-  <br />
-  # Projects
+  #### Projects
   - N/A
 </details
 
