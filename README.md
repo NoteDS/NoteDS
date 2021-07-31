@@ -9,6 +9,9 @@
 
 ---
 ### All
+
+[<img src="" width="30" />]()
+
 ---
 
 ### Add something to my playlists: 🎧
@@ -39,4 +42,4 @@
 
 ---
 
-[website]: http://errorcraft.pl
+[website]: https://discord,gg/838476005106515978
