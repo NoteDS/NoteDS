@@ -11,8 +11,7 @@
 - 👯 I cooperate with DetektywNaczos and (More people...)
 - 🥅 2021 Goals: Learn JavaScript 
 - 😨 FunFact: I'm only 13 y.o. 
-- ⚡ IDK: I'm mod on 14k+ Discord server
-
+- ⚡ Im NoteDS, BidGfQ, Dominiź, NoteZ, Notes2137 and NoteDS123
 ---
 
 ## Add me on Discord
