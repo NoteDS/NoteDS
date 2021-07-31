@@ -24,25 +24,27 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1200px-Spotify_logo_without_text.svg.png" width="30" />](https://spotify.com)
 
 ---
+### 🖌️ My Projects:
 <details>
-  <summary>🖌️ My Projects:</summary>
-  
-  #### Websites
+  <summary>Websites:</summary>
   - Tamiru.pl
   - ErrorCraft.pl
   - Naczos.pl
   - Shortnly.xyz
   - gameon.gg
-  
-  #### Apps
+</details>
+<details>
+  <summary>Apps:</summary>
   - N/A
-  
-  #### Games
+</details>
+<details>
+  <summary>Games:</summary>
   - N/A
-  
-  #### Projects
+</details>
+<details>
+  <summary>Other:</summary>
   - N/A
-</details
+</details>
 
 ---
 
