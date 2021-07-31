@@ -27,7 +27,7 @@
 ### 🖌️ My Projects:
 <details>
   <summary>Websites:</summary>
-  • Tamiru.pl
+  • Tamiru.pl [docs/source/more](https://github.com)
   <br />
   • ErrorCraft.pl
   <br />
