@@ -47,7 +47,9 @@ I ADD THIS LATER
 </details>
 <details>
   <summary>:cookie: Naczos.pl</summary>
-
+  
+  <br />
+  - [VS Code has Browser Dev Tools and Built-in JavaScript Debugging!!](https://www.youtube.com/watch?v=Uf44SDEl1HM)
   <br />
   [Naczos.pl][naczos]
   <br />
@@ -55,8 +57,3 @@ I ADD THIS LATER
   
 
 </details>
-
-
-[website]: LINK
-[naczos]: https://naczos.pl
-[tamiru]: http://tamiru.pl
