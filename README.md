@@ -17,14 +17,6 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1200px-Spotify_logo_without_text.svg.png" width="30" />](https://spotify.com)
 
 ---
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-<br />
-
----
 <details>
   <summary>🖌️ My Projects:</summary>
   
@@ -44,7 +36,6 @@
   #### Projects
   - N/A
 </details
-
 
 ---
 
