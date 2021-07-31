@@ -1,9 +1,3 @@
-### Hi there 👋
-
-
-[<img width="130" src="http://tamiru.pl/NoteDS/assets/website.png" />](http://errorcraft.pl)
-[<img width="130" src="http://tamiru.pl/NoteDS/assets/donate.png" />]()  
-
 ### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
