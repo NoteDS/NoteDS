@@ -41,7 +41,8 @@ I ADD THIS LATER
   <br />
   [Tamiru.pl](http://tamiru.pl)
   <br />
-  Source [HTML](http://tamiru.pl)
+  Source [GitHub](http://tamiru.pl)
+  Source [Raw](http://tamiru.pl)
 
 </details>
 <details>
@@ -50,7 +51,8 @@ I ADD THIS LATER
   <br />
   [Naczos.pl](https://naczos.pl)
   <br />
-  Source: I don't have, i don't write this. :C
+  Source: N/A
+  
 
 </details>
 
