@@ -10,7 +10,7 @@
 ---
 ### All
 
-[<img src="http://tamiru.pl/NoteDS/assets/discordlogo.svg" width="100" />](https://discord.gg/838476005106515978)
+[<img src="http://tamiru.pl/NoteDS/assets/discordlogo.svg" width="100" />](https://discord.gg/users/838476005106515978)
 <br />
 [<img src="http://tamiru.pl/NoteDS/assets/youtube.png" width="100" />](https://www.youtube.com/channel/UCxlKbyCzPRveAvYRvs_bcYQ)
 <br />
