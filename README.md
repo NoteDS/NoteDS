@@ -52,4 +52,4 @@
 
 ---
 
-[website]: https://discord.gg/838476005106515978
+[website]: https://discord.gg/users/838476005106515978
