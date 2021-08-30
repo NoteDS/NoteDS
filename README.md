@@ -1,12 +1,6 @@
 ### Hi there, I'm [NoteDS][website] 👋
 
-## About me!!
-
-- 🔭 I'm only 13
-- 🌱 I’m currently learning JavaScript
-- 👯 I collaborate with DetektywNaczos, Kubabek123 and more...
-- 🥅 2020 Goals: Learn JS, Build Website
-
+## STASZEK NIE OGLĄDAJ MOICH PLIKÓW
 ---
 ### All
 
