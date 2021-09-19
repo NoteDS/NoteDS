@@ -27,9 +27,6 @@
   <br />
   • Naczos.pl
   <br />
-  • Shortnly.xyz
-  <br />
-  • gameon.gg
 </details>
 <details>
   <summary>Apps:</summary>
