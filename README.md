@@ -1,7 +1,7 @@
-TypeScript   1 hr 25 mins    ███████████████▒░░░░░░░░░   61.66 %
-JavaScript   43 mins         ████████░░░░░░░░░░░░░░░░░   31.59 %
-SCSS         7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
-Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+###TypeScript   1 hr 25 mins    ███████████████▒░░░░░░░░░   61.66 %
+###JavaScript   43 mins         ████████░░░░░░░░░░░░░░░░░   31.59 %
+###SCSS         7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
+###Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 
 ![License](https://img.shields.io/github/license/Thomas-George-T/Thomas-George-T?style=flat)
 ![ViewCount](https://views.whatilearened.today/views/github/Thomas-George-T/Thomas-George-T.svg?cache=remove)
